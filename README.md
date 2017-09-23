@@ -1,1 +1,1 @@
-# Python-Notepad-GUI
+# Python-GUI
